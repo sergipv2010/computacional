@@ -1,0 +1,13 @@
+0.25469
+0.615779
+0.992645
+1.87655
+11.9833
+29.9408
+83.1026
+160.264
+234.634
+
+// Estos son los periodos de los planetas del sistema solar sin contar al 
+// Sol, es decir, el primer valor del periodo que aparece es el de Mercurio
+// hasta llegar a Pluton. Los periodos se han dado en años por ejemplo
